@@ -1,1 +1,2 @@
-# convert-texts
+# My Telegram Bot
+pip install pyTelegramBotAPI
